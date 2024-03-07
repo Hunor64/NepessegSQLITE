@@ -1,0 +1,9 @@
+-Olvasd be az adatokat az országokról, amely az adatok-utf8.txt állományban található!
+-A csv adatokból generálj le Sqlite adatbázist, amelyet lehessen megjeleníteni DataGrid-ben!
+A megjelenítéshez az adatbázisból olvasd ki az adatokat!
+-Lehessen új ország adatait bevinni a táblába, és lehessen törölni! Az adatbázisba is módosuljanak ezek!
+-Készíts lekérdezéseket, amelyek a következőt adják vissza:
+	-Legnagyobb népességű ország neve és népessége.
+	-Legkisebb területű ország neve és területe
+	-Átlag feletti területű országok neve és területei a DataGrid-ben megjelenítve.
+	-100 000 feletti népességű országok száma.
